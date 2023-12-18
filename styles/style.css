@@ -216,9 +216,6 @@
   min-height: 450px;
   background-position: center;
   background-size: cover;
-}
-
-.card-text {
   margin: 0 auto;
   padding: 50px 40px;
   display: flex;
