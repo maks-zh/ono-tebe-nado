@@ -212,15 +212,14 @@
 
 .card {
   position: relative;
-  display: flex;
   min-height: 450px;
-  background-position: center;
-  background-size: cover;
   margin: 0 auto;
   padding: 50px 40px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  background-position: center;
+  background-size: cover;
   /* text style */
   color: #fff;
   font-family: Raleway, 'Arial', 'Helvetica', sans-serif;
